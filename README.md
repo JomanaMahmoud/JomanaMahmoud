@@ -15,7 +15,7 @@ I’m a **Computer Science & Engineering student** at the **German University in
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` | `C` | `Python` | `SQL` | `JavaScript` | `Prolog` | `Haskell` | `VHDL`
+`TypeScript` | `Java` | `C` | `Python` | `SQL` | `JavaScript` | `Prolog` | `Haskell` | `VHDL`
 
 **Frameworks & Tools:**  
 `React` | `Node.js` | `Express` | `MongoDB` | `ASP.NET` | `Flutter` | `JavaFX` | `Android Studio` | `GTK`

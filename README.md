@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Jomana Tantawy
 
-I’m a **Computer Science & Engineering student** at the **German University in Cairo**, and I’ve just completed my **7th semester**. I’m passionate about turning real-world ideas into clean, scalable code. Whether it's full-stack development, game design, or diving into operating systems—I’m always up for a challenge! 💻✨
+I’m a **Computer Science & Engineering student** at the **German University in Cairo**, and I’ve just completed my **8th semester**. I’m passionate about turning real-world ideas into clean, scalable code. Whether it's full-stack development, game design, or diving into operating systems—I’m always up for a challenge! 💻✨
 
 ---
 
